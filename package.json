@@ -1,0 +1,19 @@
+{
+  "name": "basic-http",
+  "version": "1.0.0",
+  "description": "basic http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasbanza/node-basic-http.git"
+  },
+  "author": "jasbanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasbanza/node-basic-http/issues"
+  },
+  "homepage": "https://github.com/jasbanza/node-basic-http#readme"
+}
